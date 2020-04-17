@@ -1,6 +1,6 @@
 # MAR-salmon GitHub
 
-This is the core collection of functions used for the assessment of ECB/SU Atlantic Salmon.
+This is the core collection of functions used for the assessment of MAR Atlantic Salmon.
 
 To install Git: https://git-scm.com/download/win
 
@@ -10,10 +10,10 @@ We have modified the typical GitHub workflow so that we can work from our networ
 
 The workflow is as follows
 
-1: New users should be added as collaborators (talk to Dave or Freya) 
+1: New users should be added as collaborators (talk to Andy or Dustin) 
 
 2: FORK the ECBSU-salmon MASTER to your personal github account
-  - This is your personal DEVELOPMENT version of the MASTER repo housed in ECBSU-salmon.
+  - This is your personal DEVELOPMENT version of the MASTER repo housed in MAR-salmon.
 
 3: On your computer you will clone your FORK repo to R:\Science\Population Ecology Division\DFD\S&E_NS\github_scripts\YOUR_NAME.  
   - This directory is where you will work on revisions.
@@ -29,7 +29,7 @@ The workflow is as follows
 
 7: Test your changes to ensure there are no bugs within your FORK
 
-8: You can now submit a PULL REQUEST from your FORK to the ECBSU-salmon MASTER 
+8: You can now submit a PULL REQUEST from your FORK to the MAR-salmon MASTER 
   - For now AT/DR will review the PULL REQUEST to ensure it does not cause any issues.
       -AT/DR will also identify any ISSUES that need to be opened and/or closed, and integrated with pull requests too.
   - If you are aware of ISSUES being resolved/opened feel free to integrate these into the PULL REQUEST yourself
