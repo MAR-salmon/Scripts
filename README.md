@@ -12,7 +12,7 @@ The workflow is as follows
 
 1: New users should be added as collaborators (talk to Andy or Dustin) 
 
-2: FORK the ECBSU-salmon MASTER to your personal github account
+2: FORK the MAR-salmon MASTER to your personal github account
   - This is your personal DEVELOPMENT version of the MASTER repo housed in MAR-salmon.
 
 3: On your computer you will clone your FORK repo to R:\Science\Population Ecology Division\DFD\S&E_NS\github_scripts\YOUR_NAME.  
